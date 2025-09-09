@@ -1,4 +1,4 @@
-# ⚙️ adomm.psfl.ps1 — Shared PowerShell Functions
+# ⚙️ adomm.psfl.ps1 v1.1 — Shared PowerShell Functions
 
 **adomm.psfl.ps1** is a portable utility module for PowerShell projects.  
 It provides a set of shared helper functions for console control, repainting, logging, mute toggles, and networking.  
